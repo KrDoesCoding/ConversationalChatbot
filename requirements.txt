@@ -1,0 +1,11 @@
+flask==2.2.3
+flask-socketio==5.3.2
+flask-cors==3.0.10
+python-socketio==5.7.2
+eventlet==0.33.3
+numpy==1.24.2
+torch==2.0.0
+pyaudio==0.2.13
+pyttsx3==2.90
+groq==0.4.0
+python-engineio==4.3.4
