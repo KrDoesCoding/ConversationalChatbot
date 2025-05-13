@@ -1,8 +1,4 @@
 <!DOCTYPE html>
-<head>
-    <title>Conversational AI Chatbot</title>
-    
-</head>
 <body>
 
   <h1>Conversational AI Chatbot with Voice Interaction</h1>
