@@ -1,5 +1,3 @@
-# Conversational Chatbot
-
 <!DOCTYPE html>
 <head>
     <title>Conversational AI Chatbot</title>
@@ -27,7 +25,7 @@
 
   <h2>Features</h2>
   <ul>
-      <li>🎙<strong>Voice Input</strong> with Real-Time VAD using <a href="https://github.com/snakers4/silero-vad" target="_blank">Silero VAD</a></li>
+      <li><strong>Voice Input</strong> with Real-Time VAD using <a href="https://github.com/snakers4/silero-vad" target="_blank">Silero VAD</a></li>
       <li><strong>Custom LLM-based Response Generation</strong> (using Groq API for LLaMA models)</li>
       <li><strong>Conversational Memory</strong> to maintain context across interactions</li>
       <li><strong>Realistic Text-to-Speech (TTS)</strong> using Microsoft Edge Neural Voices</li>
